@@ -21,6 +21,7 @@ public class DrinkMachine {
         updateMakeable();
         display();
         startIO();
+		xyz();
     }
 
 	private static void startIO() throws IOException {
